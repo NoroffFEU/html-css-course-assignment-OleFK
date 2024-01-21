@@ -139,7 +139,7 @@ display: flex;
 
 
 .top-img {
-  background-image: url('../../assets/Images/Top-image.png');
+  background-image: url('../../assets/images/Top-image.png');
   background-position: center;
   background-size: cover;
   height: 390px;
@@ -153,7 +153,7 @@ display: flex;
 }
 
 .bottom-values {
-  background-image: url('../../assets/Images/Bottom-img.png');
+  background-image: url('../../assets/images/Bottom-img.png');
   background-position: center;
   background-size: cover;
   height: 390px;
@@ -220,11 +220,11 @@ display: flex;
   font-weight: 300;
 }
 .men{
-  background-image: url('../../assets/Images/Stormforge.png');
+  background-image: url('../../assets/images/Stormforge.png');
   justify-self: end;
 }
 .women {
-  background-image: url('../../assets/Images/Aqualuxe1.png');
+  background-image: url('../../assets/images/Aqualuxe1.png');
 }
 
 .discover{
@@ -397,17 +397,17 @@ font-size: 48px;
 }
 
 .aquaflex {
-  background-image: url('../../assets/Images/Aquaflex.png');
+  background-image: url('../../assets/images/Aquaflex.png');
   justify-self: end;
 }
 .stormforge {
-  background-image: url('../../assets/Images/Stormforge.png');
+  background-image: url('../../assets/images/Stormforge.png');
 }
 .hydroflex {
-  background-image: url('../../assets/Images/Hydroflex.png');
+  background-image: url('../../assets/images/Hydroflex.png');
 }
 .aquastorm {
-  background-image: url('../../assets/Images/Aquastorm.png');
+  background-image: url('../../assets/images/Aquastorm.png');
 }
 
 @media screen and (max-width: 768px) {
@@ -458,17 +458,17 @@ font-size: 48px;
   font-size: 20px;
 }
 .aqualuxe {
-  background-image: url('../../assets/Images/Aqualuxe1.png');
+  background-image: url('../../assets/images/Aqualuxe1.png');
   justify-self: end;
 }
 .raindiva {
-  background-image: url('../../assets/Images/Raindiva.png');
+  background-image: url('../../assets/images/Raindiva.png');
 }
 .aquadiva {
-  background-image: url('../../assets/Images/Aquadiva.png');
+  background-image: url('../../assets/images/Aquadiva.png');
 }
 .stormdancer {
-  background-image: url('../../assets/Images/Stormdancer.png');
+  background-image: url('../../assets/images/Stormdancer.png');
 }
 @media screen and (max-width: 768px) {
   .jackets-women {
@@ -487,7 +487,7 @@ font-size: 48px;
 /* ----ABOUT PAGE---- */
 
  .about {
-  background-image: url('../../assets/Images/Values-About.png');
+  background-image: url('../../assets/images/Values-About.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -580,7 +580,7 @@ font-size: 48px;
 /* ----OUR VALUES PAGE---- */
 
  .our-values {
-  background-image: url('../../assets/Images/Values-About.png');
+  background-image: url('../../assets/images/Values-About.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
