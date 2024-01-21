@@ -1,8 +1,8 @@
 /* Use import to split up your CSS into manageable chunks */
-@import url("./_reset.css");
+@import url("./reset.css");
 /* Files that are only needed to be imported are called partials */
 /* These are marked with an underscore: */
-@import url("./_variables.css");
+@import url("./variables.css");
 /* Feel free to add as many of these imports as you need */
 
 /* ----HEADER, TOP AND BOTTOM IMG---- */
@@ -14,7 +14,7 @@
   align-items: center;
   list-style: none;
   position: relative;
-  background-image: url(../../assets/Images/Values-About.png);
+  background-image: url('../../assets/Images/Values-About.png');
   background-size: cover;
   padding: 12px 30px;
   font-family: 'Prompt';
