@@ -14,7 +14,7 @@
   align-items: center;
   list-style: none;
   position: relative;
-  background-image: url('../../assets/Images/Values-About.png');
+  background-image: url(../../assets/Images/Values-About.png);
   background-size: cover;
   padding: 12px 30px;
   font-family: 'Prompt';
